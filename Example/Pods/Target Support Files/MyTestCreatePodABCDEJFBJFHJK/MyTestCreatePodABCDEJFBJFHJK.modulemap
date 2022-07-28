@@ -1,0 +1,6 @@
+framework module MyTestCreatePodABCDEJFBJFHJK {
+  umbrella header "MyTestCreatePodABCDEJFBJFHJK-umbrella.h"
+
+  export *
+  module * { export * }
+}
